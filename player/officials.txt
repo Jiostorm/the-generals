@@ -1,0 +1,15 @@
+General of the Army,G5,1,100|
+General,G4,1,50,|
+Lieutenant General,G3,1,25|
+Major General,G2,1,20|
+Brigadier General,G1,1,15|
+Colonel,CL,1,10|
+Lieutenant Colonel,LC,1,9|
+Major,MJ,1,8|
+Captain,CP,1,7|
+1st Lieutenant,1L,1,6|
+2nd Lieutenant,2L,1,5|
+Sergeant,SR,1,4|
+Private,PV,6,3|
+Spy,SP,2,2|
+Flag,FL,1,1

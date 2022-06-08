@@ -1,0 +1,8 @@
+SP PV CL PV G4 PV PV G1|
+PV G2 -- G1 -- 1L -- SP|
+-- -- CP G3 LC -- PV SR|
+-- FL -- G5 2L -- MJ --|
+SP PV CL PV G4 PV FL G1|
+PV 2L -- G1 -- 1L -- SP|
+-- -- CP G3 LC -- PV SR|
+-- G2 -- G5 PV -- MJ --

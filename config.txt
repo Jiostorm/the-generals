@@ -1,0 +1,5 @@
+Exporting Player Client to Linux:
+	• use env GOOS=linux GOARCH=arm64
+
+Default Host IP:PORT:
+	• 192.168.100.3:9000
